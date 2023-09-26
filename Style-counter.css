@@ -1,0 +1,16 @@
+.button{
+    margin:40px;
+    padding: 5px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+    size: 20px;
+    background-color: antiquewhite;
+}
+.resultado{
+    margin:40px;
+    padding: 5px;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
